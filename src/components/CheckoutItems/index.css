@@ -1,0 +1,5 @@
+.product-thumbnail {
+    width: 50px;
+    max-height: 50px;
+    object-fit: cover;
+  }
