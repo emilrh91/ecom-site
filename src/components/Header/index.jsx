@@ -4,7 +4,7 @@ import NavBar from '../NavBar';
 
 const HeaderWrapper = styled.header`
   width: 100%;
-  background-color: #eee; // Tilpass bakgrunnsfargen etter behov
+  background-color: #eee;
 `;
 
 const Header = () => {
