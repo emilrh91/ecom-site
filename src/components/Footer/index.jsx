@@ -7,7 +7,7 @@ const FooterWrapper = styled.footer`
 `;
 
 const Footer = () => {
-  return <FooterWrapper>Footer Content</FooterWrapper>;
+  return <FooterWrapper> &copy; FOOTER </FooterWrapper>;
 };
 
 export default Footer;
