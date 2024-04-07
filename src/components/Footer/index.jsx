@@ -2,11 +2,12 @@ import React from "react";
 import styled from "styled-components";
 
 const FooterWrapper = styled.footer`
-background-color: black;
-color: white;`;
+  background-color: black;
+  color: white;
+`;
 
 const Footer = () => {
-  return <FooterWrapper>My footer content here</FooterWrapper>;
+  return <FooterWrapper>Footer Content</FooterWrapper>;
 };
 
 export default Footer;
